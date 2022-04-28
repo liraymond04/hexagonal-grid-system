@@ -5,7 +5,7 @@ Hexagonal grid system built with Unity's tile manager.
 
 ## Tile painting
 
-![hexagonal-system-tile-paint](https://media.giphy.com/media/wnAsLy5P7WISTD3tll/giphy-downsized-large.gif)
+![hexagonal-system-tile-paint](https://user-images.githubusercontent.com/39678448/165678036-34287e6d-06c0-42fb-8ea1-8b4823379bc6.gif)
 
 
 ## Saving and loading
